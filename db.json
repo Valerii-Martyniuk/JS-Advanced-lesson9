@@ -1,0 +1,102 @@
+{
+  "actions": [
+    {
+      "id": 1,
+      "date": "2023",
+      "name": "3+1=5",
+      "title": "3+1+5",
+      "description": "Order rols",
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/monosushi-85c62.appspot.com/o/images%2FactionsImg%2F3%2B1%3D5.jpg?alt=media&token=667bd8ac-4c07-4358-85b7-7c8f38fea949"
+    },
+    {
+      "date": "2023-01-24T16:41:57.553Z",
+      "name": "dwadwad",
+      "title": "awdawdaw",
+      "description": "awdawd",
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/monosushi-85c62.appspot.com/o/images%2FactionsImg%2F-50%25.jpg?alt=media&token=1a8e4500-c4c5-4922-bf71-9294350778d5",
+      "id": 2
+    },
+    {
+      "date": "2023-01-24T16:46:34.978Z",
+      "name": "dawd",
+      "title": "awdawd",
+      "description": "awdawd",
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/monosushi-85c62.appspot.com/o/images%2FactionsImg%2Ftake%20away.jpg?alt=media&token=646619f6-aaaf-4d67-a2f0-0f701366f08c",
+      "id": 3
+    },
+    {
+      "date": "2023-01-24T16:50:22.246Z",
+      "name": "dawdwa",
+      "title": "awdawdawd",
+      "description": "wadwadawdawd",
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/monosushi-85c62.appspot.com/o/images%2FactionsImg%2Ftake%20away.jpg?alt=media&token=547c8a01-622b-4f41-bf14-795c5f703018",
+      "id": 4
+    }
+  ],
+  "categorys": [
+    {
+      "name": "rolls",
+      "path": "rolls",
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/monosushi-85c62.appspot.com/o/images%2FcategoryImg%2Frolls.icon.svg?alt=media&token=b8396d54-9e43-43ad-91b2-68e4ea632cc3",
+      "id": 2
+    },
+    {
+      "name": "sets",
+      "path": "sets",
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/monosushi-85c62.appspot.com/o/images%2FcategoryImg%2Fsets.icon.svg?alt=media&token=3e16d801-537f-4d70-8abc-f1c5fed032b1",
+      "id": 3
+    },
+    {
+      "name": "drinks",
+      "path": "drinks",
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/monosushi-85c62.appspot.com/o/images%2FcategoryImg%2Fdrinks.icon.svg?alt=media&token=c2805cb3-e757-454c-bc90-127b1b6d23d1",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "category": "rolls",
+      "name": " Philadelphia with salmon",
+      "path": " philadelphia-with-salmon",
+      "weight": 280,
+      "consist": "\nRice, cream cheese, cucumber, salmon",
+      "price": 247,
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/monosushi-85c62.appspot.com/o/images%2FproductsImg%2Ffiladelfiya-z-lososem.jpg?alt=media&token=c94645f9-4099-48bd-be92-5d05d00363b7",
+      "count": 1,
+      "id": 1
+    },
+    {
+      "category": "rolls",
+      "name": " Cheesy",
+      "path": " cheesy",
+      "weight": 240,
+      "consist": "\nRice, cream cheese, feta, sesame",
+      "price": 164,
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/monosushi-85c62.appspot.com/o/images%2FproductsImg%2Fsyrnyj.jpg.jpg?alt=media&token=1e67dcc3-a642-4060-afce-32178a25d372",
+      "count": null,
+      "id": 2
+    },
+    {
+      "category": "rolls",
+      "name": "Philadelphia in sesame",
+      "path": "philadelphia-in-sesame",
+      "weight": 240,
+      "consist": "Rice, cream cheese, cucumber, salmon, sesame",
+      "price": 228,
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/monosushi-85c62.appspot.com/o/images%2FproductsImg%2Ffiladelfiya-v-kunzhuti.jpg?alt=media&token=476e1a5e-93d0-4945-8708-e6825fe67889",
+      "count": null,
+      "id": 3
+    },
+    {
+      "category": "rolls",
+      "name": "Philadelphia with tuna",
+      "path": "philadelphia-with-tuna",
+      "weight": 270,
+      "consist": "\nRice, cream cheese, avocado, tuna, sweet chili sauce",
+      "price": 280,
+      "imagePath": "https://firebasestorage.googleapis.com/v0/b/monosushi-85c62.appspot.com/o/images%2FproductsImg%2Fphiladelphia-width-tunajpg.jpg?alt=media&token=d6f8065f-c37b-4d33-90da-42a43198b0e0",
+      "count": 1,
+      "id": 4
+    }
+  ]
+}
